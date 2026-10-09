@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "Stride Pro 24",
+    "slug": "stride-pro-24",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Men",
+    "shape": "runner",
+    "color": "#8fe05c",
+    "color2": "#2f6fe0",
+    "price": 7499,
+    "mrp": 8995,
+    "tag": "Bestseller",
+    "featured": true,
+    "description": "Responsive foam and a breathable mesh upper built for daily miles.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Court Classic Low",
+    "slug": "court-classic-low",
+    "brand": "Adidas",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "shape": "sneaker",
+    "color": "#f4f1ea",
+    "color2": "#111111",
+    "price": 5999,
+    "mrp": 6999,
+    "tag": "Bestseller",
+    "featured": true,
+    "description": "Clean leather court silhouette that goes with everything.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 3
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Cloudglide Femme",
+    "slug": "cloudglide-femme",
+    "brand": "Puma",
+    "category": "Running",
+    "gender": "Women",
+    "shape": "runner",
+    "color": "#f2f2f2",
+    "color2": "#111111",
+    "price": 4799,
+    "mrp": 5999,
+    "tag": "New",
+    "featured": true,
+    "description": "Featherlight cushioning with a sock-like fit.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 9
+      },
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "name": "Oxford Heritage",
+    "slug": "oxford-heritage",
+    "brand": "Clarks",
+    "category": "Formal",
+    "gender": "Men",
+    "shape": "oxford",
+    "color": "#5b3a29",
+    "color2": "#2b1a10",
+    "price": 8999,
+    "mrp": 10999,
+    "tag": "",
+    "featured": true,
+    "description": "Full-grain leather oxford with a hand-finished welt.",
+    "highlights": [
+      "Premium leather-look upper",
+      "Cushioned leather-lined footbed",
+      "Stitched sole for durability",
+      "Ideal for office and occasions"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 0
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Urban Runner 2",
+    "slug": "urban-runner-2",
+    "brand": "Reebok",
+    "category": "Casual",
+    "gender": "Unisex",
+    "shape": "sneaker",
+    "color": "#3a6ea5",
+    "color2": "#f4f1ea",
+    "price": 3999,
+    "mrp": 4999,
+    "tag": "",
+    "featured": false,
+    "description": "Everyday comfort with a retro-inspired sole.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 0
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Trail Ridge Boot",
+    "slug": "trail-ridge-boot",
+    "brand": "Woodland",
+    "category": "Boots",
+    "gender": "Men",
+    "shape": "boot",
+    "color": "#a67c52",
+    "color2": "#4a3520",
+    "price": 6499,
+    "mrp": 7499,
+    "tag": "Bestseller",
+    "featured": true,
+    "description": "Water-resistant nubuck boot with a grippy lug outsole.",
+    "highlights": [
+      "Ankle-height protection",
+      "Grippy lug outsole",
+      "Padded collar and tongue",
+      "Built for rough use"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 0
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Breeze Slide",
+    "slug": "breeze-slide",
+    "brand": "Skechers",
+    "category": "Sandals",
+    "gender": "Women",
+    "shape": "sandal",
+    "color": "#7fb7a4",
+    "color2": "#f4f1ea",
+    "price": 1999,
+    "mrp": 2499,
+    "tag": "Sale",
+    "featured": false,
+    "description": "Cushioned footbed sandal for warm days.",
+    "highlights": [
+      "Contoured, cushioned footbed",
+      "Adjustable straps",
+      "Lightweight and flexible",
+      "Quick-dry materials"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 3
+      },
+      {
+        "size": 5,
+        "stock": 0
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "name": "Midnight High-Top",
+    "slug": "midnight-high-top",
+    "brand": "Converse",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "shape": "high",
+    "color": "#1d1d24",
+    "color2": "#f4f1ea",
+    "price": 4499,
+    "mrp": 5299,
+    "tag": "",
+    "featured": false,
+    "description": "Canvas high-top with a vulcanised rubber toe cap.",
+    "highlights": [
+      "Ankle-supporting high-top profile",
+      "Padded collar",
+      "Durable rubber cupsole",
+      "Lace-up fit"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 0
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 3
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Velocity Elite",
+    "slug": "velocity-elite",
+    "brand": "Asics",
+    "category": "Running",
+    "gender": "Men",
+    "shape": "runner",
+    "color": "#f2b705",
+    "color2": "#14120f",
+    "price": 9999,
+    "mrp": 11999,
+    "tag": "New",
+    "featured": true,
+    "description": "Race-day runner with a high-rebound midsole.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Studio Loafer",
+    "slug": "studio-loafer",
+    "brand": "Hush Puppies",
+    "category": "Formal",
+    "gender": "Women",
+    "shape": "loafer",
+    "color": "#b5838d",
+    "color2": "#6d3b47",
+    "price": 5499,
+    "mrp": 6499,
+    "tag": "",
+    "featured": false,
+    "description": "Soft suede loafer with a cushioned insole.",
+    "highlights": [
+      "Slip-on convenience",
+      "Soft lining and cushioned insole",
+      "Flexible sole",
+      "Smart-casual styling"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 3
+      },
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "name": "Alpine Hiker",
+    "slug": "alpine-hiker",
+    "brand": "Columbia",
+    "category": "Boots",
+    "gender": "Unisex",
+    "shape": "boot",
+    "color": "#4f6d5a",
+    "color2": "#1f2e25",
+    "price": 7999,
+    "mrp": 9499,
+    "tag": "",
+    "featured": false,
+    "description": "Waterproof membrane and aggressive traction for the trail.",
+    "highlights": [
+      "Ankle-height protection",
+      "Grippy lug outsole",
+      "Padded collar and tongue",
+      "Built for rough use"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 3
+      },
+      {
+        "size": 9,
+        "stock": 0
+      },
+      {
+        "size": 10,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Sunset Sneaker",
+    "slug": "sunset-sneaker",
+    "brand": "New Balance",
+    "category": "Sneakers",
+    "gender": "Women",
+    "shape": "sneaker",
+    "color": "#ff9f68",
+    "color2": "#fff3e8",
+    "price": 6299,
+    "mrp": 7299,
+    "tag": "New",
+    "featured": true,
+    "description": "Pastel gradient upper on a classic suede-and-mesh build.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 9
+      },
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 0
+      },
+      {
+        "size": 8,
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "name": "Pulse Trainer",
+    "slug": "pulse-trainer",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Men",
+    "shape": "runner",
+    "color": "#ef3b2d",
+    "color2": "#111111",
+    "price": 6799,
+    "mrp": 7999,
+    "tag": "",
+    "featured": false,
+    "description": "Plush, responsive cushioning for tempo runs and long miles.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 0
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Cloud Walker",
+    "slug": "cloud-walker",
+    "brand": "Skechers",
+    "category": "Casual",
+    "gender": "Men",
+    "shape": "sneaker",
+    "color": "#8d99ae",
+    "color2": "#edf2f4",
+    "price": 3499,
+    "mrp": 4299,
+    "tag": "Sale",
+    "featured": false,
+    "description": "Slip-in comfort walker with memory-foam insole.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 6
+      },
+      {
+        "size": 7,
+        "stock": 0
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 3
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Retro 90 High",
+    "slug": "retro-90-high",
+    "brand": "Adidas",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "shape": "high",
+    "color": "#c1121f",
+    "color2": "#f4f1ea",
+    "price": 7299,
+    "mrp": 8499,
+    "tag": "Bestseller",
+    "featured": true,
+    "description": "Throwback high-top with a padded collar.",
+    "highlights": [
+      "Ankle-supporting high-top profile",
+      "Padded collar",
+      "Durable rubber cupsole",
+      "Lace-up fit"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 0
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 11
+      },
+      {
+        "size": 10,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Caven Court Low",
+    "slug": "caven-court-low",
+    "brand": "Puma",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "shape": "sneaker",
+    "color": "#2e9b4f",
+    "color2": "#ffffff",
+    "price": 5299,
+    "mrp": 6299,
+    "tag": "",
+    "featured": false,
+    "description": "Suede-and-leather court low-top with a gum cupsole.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 3
+      },
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "name": "Boardwalk Canvas",
+    "slug": "boardwalk-canvas",
+    "brand": "Vans",
+    "category": "Casual",
+    "gender": "Unisex",
+    "shape": "sneaker",
+    "color": "#264653",
+    "color2": "#e9c46a",
+    "price": 3299,
+    "mrp": 3999,
+    "tag": "",
+    "featured": false,
+    "description": "Skate-style canvas low with a waffle sole.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 3
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "Monk Strap Deluxe",
+    "slug": "monk-strap-deluxe",
+    "brand": "Clarks",
+    "category": "Formal",
+    "gender": "Men",
+    "shape": "oxford",
+    "color": "#2f2a26",
+    "color2": "#8a6d3b",
+    "price": 9499,
+    "mrp": 11499,
+    "tag": "New",
+    "featured": false,
+    "description": "Double-monk strap dress shoe in polished leather.",
+    "highlights": [
+      "Premium leather-look upper",
+      "Cushioned leather-lined footbed",
+      "Stitched sole for durability",
+      "Ideal for office and occasions"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 0
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Derby Classic",
+    "slug": "derby-classic",
+    "brand": "Bata",
+    "category": "Formal",
+    "gender": "Men",
+    "shape": "oxford",
+    "color": "#3d2b1f",
+    "color2": "#1a110a",
+    "price": 2999,
+    "mrp": 3699,
+    "tag": "Sale",
+    "featured": false,
+    "description": "Everyday derby with a cushioned leather lining.",
+    "highlights": [
+      "Premium leather-look upper",
+      "Cushioned leather-lined footbed",
+      "Stitched sole for durability",
+      "Ideal for office and occasions"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 0
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Ballet Comfort",
+    "slug": "ballet-comfort",
+    "brand": "Hush Puppies",
+    "category": "Formal",
+    "gender": "Women",
+    "shape": "loafer",
+    "color": "#d4a5a5",
+    "color2": "#f4f1ea",
+    "price": 4299,
+    "mrp": 4999,
+    "tag": "",
+    "featured": false,
+    "description": "Soft, flexible flat for long days on your feet.",
+    "highlights": [
+      "Slip-on convenience",
+      "Soft lining and cushioned insole",
+      "Flexible sole",
+      "Smart-casual styling"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 6
+      },
+      {
+        "size": 5,
+        "stock": 11
+      },
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "name": "Summit Pro Boot",
+    "slug": "summit-pro-boot",
+    "brand": "Columbia",
+    "category": "Boots",
+    "gender": "Men",
+    "shape": "boot",
+    "color": "#6b705c",
+    "color2": "#14120f",
+    "price": 8499,
+    "mrp": 9999,
+    "tag": "",
+    "featured": false,
+    "description": "Rugged ankle boot with a cushioned, shock-absorbing midsole.",
+    "highlights": [
+      "Ankle-height protection",
+      "Grippy lug outsole",
+      "Padded collar and tongue",
+      "Built for rough use"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 0
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Desert Chukka",
+    "slug": "desert-chukka",
+    "brand": "Red Tape",
+    "category": "Boots",
+    "gender": "Men",
+    "shape": "boot",
+    "color": "#c9a66b",
+    "color2": "#7a5a2e",
+    "price": 3799,
+    "mrp": 4599,
+    "tag": "Sale",
+    "featured": false,
+    "description": "Suede chukka boot with a crepe-style sole.",
+    "highlights": [
+      "Ankle-height protection",
+      "Grippy lug outsole",
+      "Padded collar and tongue",
+      "Built for rough use"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Marathon Plus",
+    "slug": "marathon-plus",
+    "brand": "Asics",
+    "category": "Running",
+    "gender": "Unisex",
+    "shape": "runner",
+    "color": "#7209b7",
+    "color2": "#f4f1ea",
+    "price": 8299,
+    "mrp": 9799,
+    "tag": "",
+    "featured": true,
+    "description": "Max-cushion trainer for long, easy runs.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 6
+      },
+      {
+        "size": 6,
+        "stock": 11
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 3
+      },
+      {
+        "size": 9,
+        "stock": 8
+      },
+      {
+        "size": 10,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Coastal Slide",
+    "slug": "coastal-slide",
+    "brand": "Crocs",
+    "category": "Sandals",
+    "gender": "Unisex",
+    "shape": "sandal",
+    "color": "#2a9d8f",
+    "color2": "#f4f1ea",
+    "price": 2299,
+    "mrp": 2799,
+    "tag": "",
+    "featured": false,
+    "description": "Water-friendly slide that dries fast.",
+    "highlights": [
+      "Contoured, cushioned footbed",
+      "Adjustable straps",
+      "Lightweight and flexible",
+      "Quick-dry materials"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 11
+      },
+      {
+        "size": 10,
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "Trek Sandal",
+    "slug": "trek-sandal",
+    "brand": "Woodland",
+    "category": "Sandals",
+    "gender": "Men",
+    "shape": "sandal",
+    "color": "#8b5e3c",
+    "color2": "#14120f",
+    "price": 2799,
+    "mrp": 3299,
+    "tag": "",
+    "featured": false,
+    "description": "Adjustable straps and a contoured footbed.",
+    "highlights": [
+      "Contoured, cushioned footbed",
+      "Adjustable straps",
+      "Lightweight and flexible",
+      "Quick-dry materials"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 0
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Sky Platform",
+    "slug": "sky-platform",
+    "brand": "Converse",
+    "category": "Sneakers",
+    "gender": "Women",
+    "shape": "high",
+    "color": "#f8f9fa",
+    "color2": "#e63946",
+    "price": 4999,
+    "mrp": 5899,
+    "tag": "New",
+    "featured": true,
+    "description": "Chunky platform high-top with a bold stripe.",
+    "highlights": [
+      "Ankle-supporting high-top profile",
+      "Padded collar",
+      "Durable rubber cupsole",
+      "Lace-up fit"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 6
+      },
+      {
+        "size": 5,
+        "stock": 11
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 0
+      },
+      {
+        "size": 8,
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "name": "Everyday Tee",
+    "slug": "everyday-tee",
+    "brand": "Reebok",
+    "category": "Casual",
+    "gender": "Women",
+    "shape": "sneaker",
+    "color": "#cdb4db",
+    "color2": "#fff",
+    "price": 3599,
+    "mrp": 4399,
+    "tag": "",
+    "featured": false,
+    "description": "Minimal low-top in soft pastel leather.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 9
+      },
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "name": "Tempo Racer",
+    "slug": "tempo-racer",
+    "brand": "New Balance",
+    "category": "Running",
+    "gender": "Men",
+    "shape": "runner",
+    "color": "#00b4d8",
+    "color2": "#14120f",
+    "price": 6999,
+    "mrp": 8199,
+    "tag": "",
+    "featured": false,
+    "description": "Responsive tempo-day shoe with a snappy ride.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 0
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "Heritage Brogue",
+    "slug": "heritage-brogue",
+    "brand": "Red Tape",
+    "category": "Formal",
+    "gender": "Men",
+    "shape": "oxford",
+    "color": "#7f5539",
+    "color2": "#3a2314",
+    "price": 3299,
+    "mrp": 3999,
+    "tag": "",
+    "featured": false,
+    "description": "Perforated brogue detailing in textured leather.",
+    "highlights": [
+      "Premium leather-look upper",
+      "Cushioned leather-lined footbed",
+      "Stitched sole for durability",
+      "Ideal for office and occasions"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 11
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 3
+      },
+      {
+        "size": 10,
+        "stock": 8
+      },
+      {
+        "size": 11,
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "Park Walker",
+    "slug": "park-walker",
+    "brand": "Bata",
+    "category": "Casual",
+    "gender": "Women",
+    "shape": "sneaker",
+    "color": "#bde0fe",
+    "color2": "#3a6ea5",
+    "price": 2499,
+    "mrp": 2999,
+    "tag": "Sale",
+    "featured": false,
+    "description": "Lightweight walker for the daily commute.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 9
+      },
+      {
+        "size": 5,
+        "stock": 5
+      },
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "name": "Night Shift High",
+    "slug": "night-shift-high",
+    "brand": "Vans",
+    "category": "Sneakers",
+    "gender": "Men",
+    "shape": "high",
+    "color": "#0b090a",
+    "color2": "#e5383b",
+    "price": 5499,
+    "mrp": 6499,
+    "tag": "",
+    "featured": false,
+    "description": "Black-on-black high-top with red accents.",
+    "highlights": [
+      "Ankle-supporting high-top profile",
+      "Padded collar",
+      "Durable rubber cupsole",
+      "Lace-up fit"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 3
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 9
+      },
+      {
+        "size": 10,
+        "stock": 5
+      },
+      {
+        "size": 11,
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "Zen Loafer",
+    "slug": "zen-loafer",
+    "brand": "Clarks",
+    "category": "Formal",
+    "gender": "Women",
+    "shape": "loafer",
+    "color": "#6d6875",
+    "color2": "#e5989b",
+    "price": 6499,
+    "mrp": 7699,
+    "tag": "",
+    "featured": false,
+    "description": "Elegant slip-on with a low block heel.",
+    "highlights": [
+      "Slip-on convenience",
+      "Soft lining and cushioned insole",
+      "Flexible sole",
+      "Smart-casual styling"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 6
+      },
+      {
+        "size": 5,
+        "stock": 11
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "Gravel Trail",
+    "slug": "gravel-trail",
+    "brand": "Trailhead",
+    "category": "Running",
+    "gender": "Unisex",
+    "shape": "runner",
+    "color": "#606c38",
+    "color2": "#fefae0",
+    "price": 8799,
+    "mrp": 10299,
+    "tag": "",
+    "featured": false,
+    "description": "Trail runner with deep lugs for loose terrain.",
+    "highlights": [
+      "Cushioned midsole for impact absorption",
+      "Breathable engineered mesh upper",
+      "Durable rubber outsole",
+      "Secure heel counter"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 5,
+        "stock": 9
+      },
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 10
+      },
+      {
+        "size": 8,
+        "stock": 0
+      },
+      {
+        "size": 9,
+        "stock": 11
+      },
+      {
+        "size": 10,
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "name": "Terra Hiker Mid",
+    "slug": "terra-hiker-mid",
+    "brand": "Woodland",
+    "category": "Boots",
+    "gender": "Women",
+    "shape": "boot",
+    "color": "#bc6c25",
+    "color2": "#283618",
+    "price": 5999,
+    "mrp": 6999,
+    "tag": "",
+    "featured": false,
+    "description": "Mid-cut hiking boot with ankle support.",
+    "highlights": [
+      "Ankle-height protection",
+      "Grippy lug outsole",
+      "Padded collar and tongue",
+      "Built for rough use"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 3
+      },
+      {
+        "size": 5,
+        "stock": 8
+      },
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "name": "Pop Court",
+    "slug": "pop-court",
+    "brand": "Adidas",
+    "category": "Casual",
+    "gender": "Women",
+    "shape": "sneaker",
+    "color": "#1f6b4a",
+    "color2": "#f4f1ea",
+    "price": 4599,
+    "mrp": 5399,
+    "tag": "New",
+    "featured": false,
+    "description": "Suede low-top with cream stripes and a clean cupsole.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 4,
+        "stock": 6
+      },
+      {
+        "size": 5,
+        "stock": 0
+      },
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "name": "Slip-On Breeze",
+    "slug": "slip-on-breeze",
+    "brand": "Skechers",
+    "category": "Casual",
+    "gender": "Men",
+    "shape": "sneaker",
+    "color": "#adb5bd",
+    "color2": "#212529",
+    "price": 2999,
+    "mrp": 3699,
+    "tag": "",
+    "featured": false,
+    "description": "Hands-free slip-on with a breathable knit upper.",
+    "highlights": [
+      "Soft padded collar",
+      "Durable rubber cupsole",
+      "Cushioned insole for all-day wear",
+      "Easy-care upper"
+    ],
+    "images": [],
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 0
+      },
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 10
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 11
+      },
+      {
+        "size": 11,
+        "stock": 7
+      }
+    ]
+  }
+]
